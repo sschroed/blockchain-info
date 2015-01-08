@@ -2,13 +2,15 @@
 
 ## Block Chain Info
 * [Bitcoin Block Chain][2]
+	* [AltChain][4]
 * http://joel.mn/
 	* [The Blockchain Application Stack][1]
 	* [The Shared Data Layer of The Blockchain Application Stack][3]
 
 [1]: http://joel.mn/post/103546215249/the-blockchain-application-stack
-[2]: https://en.bitcoin.it/wiki/Block_chainBit
+[2]: https://en.bitcoin.it/wiki/Block_chain
 [3]: http://joel.mn/post/104755282493/the-shared-data-layer-of-the-blockchain
+[4]: https://en.bitcoin.it/wiki/Alternative_chain
 
 
 ## MetaCoins
